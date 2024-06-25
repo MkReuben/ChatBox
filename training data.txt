@@ -1,4 +1,3 @@
-
 What is finE-Xtreme
 FinE-Xtreme is an advanced core banking system developed by Lanstar Technologies. It is designed to enhance banking operations by reallocating labor costs, reducing errors, and increasing efficiency. The system offers centralized record-keeping, allowing customers to access their information and stay connected using computers or mobile devices 24/7. FinE-Xtreme aims to improve the overall functionality and service delivery of banks and SACCOs (Savings and Credit Cooperative Organizations)​ (
 Click Mobile Banking>Mobile Deposit reconsiliation>Upload the excel which you have dowloaded from the mpesa portal make sure you follow the format	
