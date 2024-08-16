@@ -1,0 +1,10 @@
+FinE-Xtreme is an advanced core banking system developed by Lanstar Technologies. It is designed to enhance banking operations by reallocating labor costs, reducing errors, and increasing efficiency. The system offers centralized record-keeping, allowing customers to access their information and stay connected using computers or mobile devices 24/7. FinE-Xtreme aims to improve the overall functionality and service delivery of banks and SACCOs (Savings and Credit Cooperative Organizations)​
+Click Mobile Banking>Mobile Deposit reconsiliation>Upload the excel which you have dowloaded from the mpesa portal make sure you follow the format	
+Click Processes>Charge Interest	
+To use this module you must be a Teller and must have transacted some transaction the same day you are closing the day. This module must be run in the evening when closing and no further transactions are to be carried out.Select the Financial Month.Select 'Yes' on the Display Un Posted Only to display the tellers who have not yet posted their End Of Day Reconciliation.Print All:-To print all tellers transactions click the Print All button.Print:- To print a teller transaction highlight the teller and click the Print button.End Day:-To End Day of a particular teller highlight the teller and then click the End Day button.	
+Click Mobile Banking > Manage sms groups
+Go to Salary and deductions then upload payroll deduction
+Click the Member statement button then print
+
+
+
